@@ -1,0 +1,219 @@
+input{
+    width="20px" 
+    height="20px" 
+    type="image"
+}
+.one,.two,.three,li{
+    list-style: none;
+    display: inline-block;
+}
+.main{
+    width: 1350px;
+    margin:-10px;
+    height: 50px;
+    background-color:royalblue;
+}
+button{
+    cursor: pointer;
+    padding: 5px;
+    border: none;
+    background-color: gainsboro;
+}
+.one{
+    margin: auto 80px;
+    height: 40px;
+}
+.two{
+    margin: auto 12px;
+    color: white;
+    height: 37px;
+}
+.three{
+    height: 43px;
+}
+.musibat{
+    height: 73px;
+    width: 1349px;
+    background-color:gainsboro;
+    margin-top: 10px;
+    margin-left: -8px;
+}
+.imge{
+    height: 50px;
+    width: 180px;
+   margin-top: 6px;
+   margin-left: 120px;
+}
+.second-bar{
+    height: 50px;
+    width: 800px;
+    margin-top: -60px;
+    margin-left: 500px;
+}
+.logo-bar ul li a button{
+
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 20px;
+    margin-left: 14px;
+    margin-top: 8px;
+    font-size: 95%;  
+}
+.logo-bar ul li a{
+    text-decoration: none;
+    color: black;
+}
+.logo-bar ul li button:hover{
+    
+    background-color: royalblue;
+}
+.slide{
+    position: relative;
+    top: 0px;
+    right: 8px;
+   
+}
+#bar{
+    background-color: royalblue;
+    position: relative;
+    top: 4px;
+    height: 30px;
+    line-height: 30px;
+    width: 1150px;
+    text-align:center ;
+    right: -100px;
+}
+#para{
+    text-align:center ;
+    background-color:gainsboro;
+    position: relative;
+    width: 1348px;
+    right: 7px;
+}
+#para .para{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    padding-left: 170px; 
+    padding-right: 170px;
+    text-align: justify;
+}
+
+#para .blue{
+    height: 330px;
+    width: 1150;
+    background-color: blue;
+}
+
+#para .blue img{
+    margin-top: -50px;
+    padding: 120px;
+}
+#para .blue h1{
+    font-size: 250%;
+    padding: 130px;
+    margin-top: -240px;
+    margin-left: -10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+#para .blue p{
+    font-size: 110%;
+    margin-top: -140px;
+    margin-left: -30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+#para .table td{
+    padding: 50px;
+    width: 230px;
+    height: 20px;
+    background-color: whitesmoke;
+    
+}
+
+#para .table td img{
+    /* margin-top: -80x; */
+    margin-left: 88px;
+    margin-bottom: -50px;
+    margin-top: -500px;
+}
+
+#para .table td p{
+    font-size: 140%;
+    margin-left: 43px;
+    margin-top: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.second td{
+    width: 280px;
+    padding: 20px;
+    font-size: 20px;
+    background-color: whitesmoke;
+    
+}
+.second table{
+    margin-left: 140px;
+    
+}
+.second h2{
+    color: royalblue;
+    margin-left: 140;
+}
+
+.first marquee{
+    
+    width: 280px;
+    height: 220px;
+    margin-top: -183px;
+    margin-left: 880px;
+}
+.final{
+    background-color:rgb(27, 24, 24);
+    height: 400px;
+    width: 1349px;
+    margin-left: -10px;
+    
+}
+.final p{
+    color: white;
+    text-align: left;
+}
+.last{
+    height: 60px;
+    width: 1349px;
+    margin-left: -10px;
+    background-color: royalblue;
+    color: white;
+    margin-top: -40px;
+    text-align: left;
+    line-height: 60px; 
+}
+
+.final #contact{
+    text-align: left;
+    margin-left: 100px;
+   
+}
+
+
+.final #call{
+    text-align: right;
+}
+.final #fb table{
+   
+    margin-top: -260px;
+    margin-left: 470px;
+    text-align: center;
+    font-size: 170%;
+    color: royalblue;
+}
+#but {
+    width: 45px;
+    height: 40px;
+    position: fixed;
+    bottom: 10px;
+    right: 18px;
+}
